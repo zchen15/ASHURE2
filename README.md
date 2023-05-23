@@ -4,6 +4,7 @@
 </p>
 
 -------------
+This repository of a fork of https://github.com/BBaloglu/ASHURE2. This is an update of the original code to streamline external dependencies and to make it more user friendly to install and run as python package.
 
 ASHURE is designed for analysis of linear consensus or 1d2 like fastq data from nanopore sequencing devices. Library preparation procedures such as rolling circle amplification (RCA) generate ssDNA containing repeats of their originating template. When these concatemers are read by a nanopore sequencing device, the repetative regions can be realigned to generate a more error free consensus.
 

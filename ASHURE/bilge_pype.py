@@ -2,7 +2,7 @@
 '''
 Bilge_Pype: Bilge's Python Processing Environment
 
-Copyright (C) 2020, Bilgenur Baloglu.
+Copyright (C) 2020, Bilgenur Baloglu
 All rights reserved.
 
 Contact: Bilgenur Baloglu <bbaloglu@uoguelph.ca>,

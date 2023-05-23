@@ -278,7 +278,7 @@ def perform_MSA(df, frags, batch_size=100, folder='./msa/', gap_thresh=4, paddin
             logging.info('MSA progress = '+str(j)+'/'+str(N_chunks))
             bpy.run_msa(MSA_infile, config=config, thread_lock=thread_lock)
             MSA_infile = []
- 
+
 def get_spoa_consensus(MSA_outfile):
     '''
     Reads spoa outfile for the consensus from multi-sequence alignment
